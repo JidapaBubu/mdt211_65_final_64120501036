@@ -2,17 +2,7 @@
 {
     static void Main(string[] args)
     {
-        Stack<int> satcking = new Stack<int>();
-        whlie(true){
-            char text = char.Pharse(Console.ReadLine());
-            if (text == '(')
-            {
-                satcking.Push(2);
-            }
-            else if (text == ')')
-            {
-                satcking.Push(1);
-            }
-        }
+        Queue<int> q = new Queue<int>();
+        char text = char.Parse(Console.ReadLine());
     }
 }

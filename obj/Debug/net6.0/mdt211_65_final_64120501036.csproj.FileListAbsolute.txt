@@ -1,0 +1,5 @@
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.csproj.AssemblyReference.cache
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.AssemblyInfoInputs.cache
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.AssemblyInfo.cs
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.csproj.CoreCompileInputs.cache
