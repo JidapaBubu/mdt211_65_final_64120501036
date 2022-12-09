@@ -3,3 +3,13 @@ C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_
 C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.AssemblyInfoInputs.cache
 C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.AssemblyInfo.cs
 C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.csproj.CoreCompileInputs.cache
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\bin\Debug\net6.0\mdt211_65_final_64120501036.exe
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\bin\Debug\net6.0\mdt211_65_final_64120501036.deps.json
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\bin\Debug\net6.0\mdt211_65_final_64120501036.runtimeconfig.json
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\bin\Debug\net6.0\mdt211_65_final_64120501036.dll
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\bin\Debug\net6.0\mdt211_65_final_64120501036.pdb
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.dll
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\refint\mdt211_65_final_64120501036.dll
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.pdb
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\mdt211_65_final_64120501036.genruntimeconfig.cache
+C:\Users\MTA 216\Desktop\mdt211_65_final_64120501036\obj\Debug\net6.0\ref\mdt211_65_final_64120501036.dll

@@ -1,4 +1,4 @@
-class Queue<T>
+class Stack<T>
 {
     private Node<T> top = null;
     private int length = 0;
@@ -6,15 +6,8 @@ class Queue<T>
     public void Push(T value)
     {
         Node<T> node = new Node<T>(value);
-        if(this.top == null)
-        {
-            this.top = node;
-        }
-        else
-        {
-            Node<T> lastNode = this.GetNode(this.length-1);
-            lastNode.SetNext(node);
-        }
+        node.SetNext(this.top);
+        this.top = node;
         this.length++;
     }
 
